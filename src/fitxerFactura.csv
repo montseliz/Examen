@@ -1,0 +1,3 @@
+Factura [numeroFactura=1, client=1, direccio=1, telefon=1, totalFactura=0.0, llistaLiniesFactures=[]],
+Factura [numeroFactura=2, client=2, direccio=2, telefon=2, totalFactura=0.0, llistaLiniesFactures=[]],
+Factura [numeroFactura=3, client=3, direccio=3, telefon=3, totalFactura=0.0, llistaLiniesFactures=[]],

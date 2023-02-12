@@ -1,0 +1,3 @@
+Linia_Factura [numeroLinia=1, numeroFactura=1, nomProducte=1, descripcio=1, quantitat=1, preuProducte=1.0],Linia_Factura [numeroLinia=2, numeroFactura=1, nomProducte=2, descripcio=2, quantitat=2, preuProducte=2.0],
+Linia_Factura [numeroLinia=1, numeroFactura=2, nomProducte=1, descripcio=1, quantitat=1, preuProducte=1.0],
+
